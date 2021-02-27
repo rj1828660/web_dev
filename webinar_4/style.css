@@ -1,0 +1,18 @@
+*{  
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(235, 252, 7);
+    background-color: rgb(173, 86, 86);
+}
+
+
+body{
+    margin-top: 1000px;
+  
+}
+.p2{
+    font-weight: bolder;
+}
+.p1{
+    font-style: italic;
+}
